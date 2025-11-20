@@ -17,8 +17,7 @@ The main scripts are:
 The dataset is provided as a ZIP file on Google Drive:
 
 **Dataset ZIP:**  
-[`dataset_link`](https://drive.google.com/drive/folders/18Sr4_fAU2R6-MhkKye8zR3zzcQ4lQYC8?usp=drive_link)
-
+[`dataset_link`](https://drive.google.com/drive/folders/1jhiAAfP0eUQRzsq2XqEZ5VKDVGvOyPyh?usp=drive_link)
 After downloading and extracting, you must update the dataset path inside the scripts:
 
 - In `data_aug_mdi.py`:
